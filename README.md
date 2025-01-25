@@ -31,12 +31,18 @@ URL of weather: https://api.open-meteo.com/v1/forecast?latitude=-36.8485&longitu
 - Change background color based on day or night
 
 
-## Learning from chatgpt
+## - Learning from chatgpt
 
-<img width="369" alt="截屏2025-01-25 下午9 48 11" src="https://github.com/user-attachments/assets/909566b8-b69b-4ebd-a956-31a99a4c55e4" />
+<img width="385" alt="截屏2025-01-25 下午9 49 03" src="https://github.com/user-attachments/assets/dad26abb-13f7-4930-9442-a2a85ad3c3f8" />
 
+## - adjust typography
 
+<img width="279" alt="截屏2025-01-25 下午9 51 17" src="https://github.com/user-attachments/assets/8b6bec18-e47d-4114-bfe8-0be6908d4fc1" />
 
+<img width="295" alt="截屏2025-01-25 下午9 51 28" src="https://github.com/user-attachments/assets/7450f9be-8885-45de-9fa9-40bbf98ef1b9" />
+
+## - Further development: 
+For further development, I could expand the weather code by adding features like a dynamic forecast for the next few days using the API’s hourly or daily data. It’d be cool to add interactive buttons that let users switch between Celsius and Fahrenheit too, making it more engaging. I think I could also make the visuals more interesting by adding animations, like a sun rising or clouds moving depending on the weather. Real-time updates could be implemented by refreshing the data regularly. Lastly, using the browser’s geolocation API to personalize the app by showing the weather based on the user’s location would definitely make it more practical. It seems like it's tooooo complicated for me right now.
 
 
 
